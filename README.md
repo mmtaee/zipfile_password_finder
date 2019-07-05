@@ -8,7 +8,7 @@ showing password generated .
 
 choosing length of password Min & Max Char .
 
-choosing type of Char to create password .
+choosing type of password to create .
 
 
 requerments :
