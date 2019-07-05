@@ -11,7 +11,7 @@ choosing type of Char to create password .
 
 
 requerments :
-pkg-resources==0.0.0
-zipfile36==0.1.3
+          pkg-resources==0.0.0
+          zipfile36==0.1.3
 
 
